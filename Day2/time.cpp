@@ -24,7 +24,7 @@ class Time{
     void display(){
         cout<<"hour="<<hours<<endl<<"minutes="<<min<<endl<<"second="<<second<<endl;
     }
-};
+}; 
 int main()
 {
    Time T1,T2,T3,T4;
